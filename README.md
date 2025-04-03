@@ -1,4 +1,4 @@
-# LAB | Repaso de Java
+# LAB | Repaso semana 1
 
 ## Objetivos
 
